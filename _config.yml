@@ -2,7 +2,7 @@ title: Pudhina Fresh # Shown in header on pages with full_logo: true
 short_logo: PF. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
-url: "colomer361.github.io" # Site base URL
+url: "" # Site base URL
 
 author:
   name: Ritij Jain
